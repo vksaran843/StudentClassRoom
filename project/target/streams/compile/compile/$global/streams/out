@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/home/aniket/vikas/eKart/project/Build.scala:3:8: not found: object PlayProject[0m
+[0m[[0m[31merror[0m] [0m[0mimport PlayProject._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/aniket/vikas/eKart/project/Build.scala:5:33: not found: type Build[0m
+[0m[[0m[31merror[0m] [0m[0mobject ApplicationBuild extends Build {[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/aniket/vikas/eKart/project/Build.scala:14:16: not found: value PlayProject[0m
+[0m[[0m[31merror[0m] [0m[0m    val main = PlayProject(appName, appVersion, appDependencies, mainLang = JAVA).settings([0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/aniket/vikas/eKart/project/Build.scala:14:66: not found: value mainLang[0m
+[0m[[0m[31merror[0m] [0m[0m    val main = PlayProject(appName, appVersion, appDependencies, mainLang = JAVA).settings([0m
+[0m[[0m[31merror[0m] [0m[0m                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
